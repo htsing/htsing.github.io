@@ -1,5 +1,5 @@
 - [:octocat: 首页](/README)
-- :memo: 目录
+- 目录
    - 第1章：基础知识
    
        - [第1节：生鲜](/md/idea-plugin/2021-08-27-技术调研IDEA插件怎么开发.md)
